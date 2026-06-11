@@ -15,7 +15,7 @@ A Space Invaders-style shooter game built in C++ for Windows, rendered directly 
 
 ## How to Run
 
-1. Open the project in a Windows C++ compiler/IDE (e.g. Visual Studio).
+1. Open the project in a Windows C++ compiler (e.g. Visual Studio).
 2. Compile `game.cpp` (which includes `GUILib.h`).
 3. Run the executable. A console window will open and the game will render inside it.
 
